@@ -1,2 +1,2 @@
 # library_reader
-Project for reading books
+Project aimed towards reading books and produce analysis based on collected data.
